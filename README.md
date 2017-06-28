@@ -1,4 +1,4 @@
-# Scalable Authentication, Single Sign On/Out (SSO) Example with JSON Web Token (JWT), Cookie, Redis, Java, Spring Boot, FreeMarker
+# Single Sign Out, Scalable Authentication Example With JSON Web Token (JWT), Spring Boot and Redis
 
 ## Guide
 https://hellokoding.com/scalable-authentication-single-sign-on-out-sso-example-with-json-web-token-jwt-cookie-redis-java-spring-boot-freemarker/
@@ -10,7 +10,8 @@ https://hellokoding.com/scalable-authentication-single-sign-on-out-sso-example-w
 
 ## Stack
 - Java
-- Single Sign On/Out
+- Single Sign On
+- Single Sign Out
 - JSON Web Token
 - Redis
 - Cookie
