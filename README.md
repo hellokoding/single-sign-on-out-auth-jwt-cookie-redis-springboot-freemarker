@@ -1,4 +1,4 @@
-# Single Sign Out, Authentication Service Example With JSON Web Token (JWT), Spring Boot and Redis
+# Single Sign Out: Authentication Service Example with JSON Web Token (JWT), Spring Boot and Redis
 
 ## Guide
 https://hellokoding.com/scalable-authentication-single-sign-on-out-sso-example-with-json-web-token-jwt-cookie-redis-java-spring-boot-freemarker/
